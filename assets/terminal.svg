@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="280" viewBox="0 0 760 280" role="img" aria-label="Terminal de Alexxe">
+<rect x="1" y="1" width="758" height="278" rx="13" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<rect x="2" y="2" width="756" height="41" rx="12" fill="#111721"/>
+<rect x="2" y="29" width="756" height="14" fill="#111721"/>
+<circle cx="700" cy="22" r="7" fill="#ff5f57"/>
+<circle cx="723" cy="22" r="7" fill="#febc2e"/>
+<circle cx="745" cy="22" r="7" fill="#28c840"/>
+<g font-family="monospace" font-size="20" fill="#c9d1d9">
+<text x="24" y="80"><tspan fill="#7ee5a3">4lexxe@github:~$ </tspan><tspan fill="#f5f5fa">whoami</tspan></text>
+<text x="24" y="119" fill="#b9c6e2">&gt; backend developer // web systems</text>
+<text x="24" y="149" fill="#b9c6e2">&gt; game dev &amp; 3D enthusiast</text>
+<text x="24" y="179" fill="#b9c6e2">&gt; AI + microcontroller tinkering</text>
+<text x="24" y="209" fill="#b9c6e2">&gt; Java | TS | JS | Python | C#</text>
+<text x="24" y="239" fill="#b28aff">&gt; keep building_</text>
+</g></svg>
